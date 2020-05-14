@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-client/static/css/main.2561ec71.chunk.css",
+    "main.js": "/react-client/static/js/main.c0e4e398.chunk.js",
+    "main.js.map": "/react-client/static/js/main.c0e4e398.chunk.js.map",
+    "runtime-main.js": "/react-client/static/js/runtime-main.feb6aa2c.js",
+    "runtime-main.js.map": "/react-client/static/js/runtime-main.feb6aa2c.js.map",
+    "static/js/2.cbe7d5cb.chunk.js": "/react-client/static/js/2.cbe7d5cb.chunk.js",
+    "static/js/2.cbe7d5cb.chunk.js.map": "/react-client/static/js/2.cbe7d5cb.chunk.js.map",
+    "index.html": "/react-client/index.html",
+    "precache-manifest.5b1df8bdc2d4f064f33d11fd5a1b1175.js": "/react-client/precache-manifest.5b1df8bdc2d4f064f33d11fd5a1b1175.js",
+    "service-worker.js": "/react-client/service-worker.js",
+    "static/css/main.2561ec71.chunk.css.map": "/react-client/static/css/main.2561ec71.chunk.css.map",
+    "static/js/2.cbe7d5cb.chunk.js.LICENSE.txt": "/react-client/static/js/2.cbe7d5cb.chunk.js.LICENSE.txt",
+    "static/media/login.png": "/react-client/static/media/login.8a4053ac.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.feb6aa2c.js",
+    "static/js/2.cbe7d5cb.chunk.js",
+    "static/css/main.2561ec71.chunk.css",
+    "static/js/main.c0e4e398.chunk.js"
+  ]
+}
